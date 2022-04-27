@@ -1,6 +1,5 @@
 mlops_main
 ==============================
-# test
 wfare project using mlops
 
 Project Organization
